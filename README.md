@@ -1,4 +1,5 @@
-https://travis-ci.com/eablack/myembertestapp.svg?branch=master
+
+![TravisCI Badge](https://travis-ci.com/eablack/myembertestapp.svg?branch=master)
 
 # embertestapp
 This README outlines the details of collaborating on this Ember application.
